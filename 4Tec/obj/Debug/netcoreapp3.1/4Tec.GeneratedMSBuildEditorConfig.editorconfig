@@ -1,3 +1,11 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = _4Tec
-build_property.ProjectDir = D:\TCC\Sistema 4Tec\4Tec\4Tec\
+build_property.ProjectDir = D:\Repositórios GitHub\4Tec\4Tec\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
