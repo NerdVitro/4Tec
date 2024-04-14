@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Consultas\FrmConCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FrmConCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FrmConEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Consultas\FrmConMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Movimentacao\FrmVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCadastroCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCadastroCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCadastroEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pessoas\FrmFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produto\FrmCadastroMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produto\FrmCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produto\FrmLote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produto\FrmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produto\FrmProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
