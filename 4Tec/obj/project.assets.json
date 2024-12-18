@@ -73,6 +73,15 @@
           }
         }
       },
+      "SQLite.Interop/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/SQLite.Interop.dll": {}
+        },
+        "runtime": {
+          "lib/SQLite.Interop.dll": {}
+        }
+      },
       "System.Data.SqlClient/4.8.6": {
         "type": "package",
         "dependencies": {
@@ -277,6 +286,18 @@
         "version.txt"
       ]
     },
+    "SQLite.Interop/1.0.0": {
+      "sha512": "RhN3q20Wj8i2gByCLEOWO/5R2zpRoFMqRF6qVdDlfwmurMi7X7zfpShPDvUjM86mK/72Mxo2Aq0ke9oHZQPzzA==",
+      "type": "package",
+      "path": "sqlite.interop/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/SQLite.Interop.dll",
+        "sqlite.interop.1.0.0.nupkg.sha512",
+        "sqlite.interop.nuspec"
+      ]
+    },
     "System.Data.SqlClient/4.8.6": {
       "sha512": "2Ij/LCaTQRyAi5lAv7UUTV9R2FobC8xN9mE0fXBZohum/xLl8IZVmE98Rq5ugQHjCgTBRKqpXRb4ORulRdA6Ig==",
       "type": "package",
@@ -466,6 +487,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "SQLite.Interop >= 1.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
   },
@@ -519,6 +541,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "SQLite.Interop": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.6, )"
@@ -564,5 +590,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'SQLite.Interop 1.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "SQLite.Interop",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

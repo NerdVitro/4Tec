@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "D:\\Reposit\u00F3rios GitHub\\4Tec\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|d:\\reposit\u00F3rios github\\4tec\\4tec\\4tec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|solutionrelative:4tec\\4tec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|d:\\reposit\u00F3rios github\\4tec\\4tec\\forms\\produto\\frmcadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|solutionrelative:4tec\\forms\\produto\\frmcadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|d:\\reposit\u00F3rios github\\4tec\\4tec\\classes\\bancodados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F28DB4F-C9F9-4EB6-98C6-926A915D3B39}|4Tec\\4Tec.csproj|solutionrelative:4tec\\classes\\bancodados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +34,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4Tec",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\4Tec.csproj",
+              "RelativeDocumentMoniker": "4Tec\\4Tec.csproj",
+              "ToolTip": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\4Tec.csproj",
+              "RelativeToolTip": "4Tec\\4Tec.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T15:51:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-14T15:51:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCadastroProduto.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\Forms\\Produto\\FrmCadastroProduto.cs",
+              "RelativeDocumentMoniker": "4Tec\\Forms\\Produto\\FrmCadastroProduto.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\Forms\\Produto\\FrmCadastroProduto.cs",
+              "RelativeToolTip": "4Tec\\Forms\\Produto\\FrmCadastroProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:51:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Conexao.cs",
               "DocumentMoniker": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\Classes\\BancoDados\\Conexao.cs",
               "RelativeDocumentMoniker": "4Tec\\Classes\\BancoDados\\Conexao.cs",
               "ToolTip": "D:\\Reposit\u00F3rios GitHub\\4Tec\\4Tec\\Classes\\BancoDados\\Conexao.cs",
               "RelativeToolTip": "4Tec\\Classes\\BancoDados\\Conexao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T13:51:31.179Z",
               "EditorCaption": ""

@@ -83,3 +83,4 @@ D:\Repositórios GitHub\4Tec\4Tec\obj\Debug\netcoreapp3.1\4Tec.csproj.Up2Date
 D:\Repositórios GitHub\4Tec\4Tec\obj\Debug\netcoreapp3.1\4Tec.dll
 D:\Repositórios GitHub\4Tec\4Tec\obj\Debug\netcoreapp3.1\4Tec.pdb
 D:\Repositórios GitHub\4Tec\4Tec\obj\Debug\netcoreapp3.1\4Tec.genruntimeconfig.cache
+D:\Repositórios GitHub\4Tec\4Tec\bin\Debug\netcoreapp3.1\SQLite.Interop.dll
